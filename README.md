@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, soy Dariel Espinal García 👋</h1>
+<h1 align="center">Hola, soy Dariel Espinal García</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB¢er=true&width=435&lines=Python+Developer;SQL+%26+Data+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -29,8 +29,8 @@
 | Lenguajes | Bases de datos | Librerías |
 |-----------|---------------|-----------|
 | Python | PostgreSQL | Pandas |
-| SQL | MySQL | NumPy |
-| | SQLite | Matplotlib |
+| SQL | MySQL |
+| Matplotlib |
 
 ---
 
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://instagram.com/TU_IG">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://www.instagram.com/darielespinalgarcia/" />
   </a>
   <a href="https://github.com/Dariel-Espinal">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
