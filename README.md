@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Dariel Espinal García
 
-### Estudiante de Informatica | Python · PowerShell · Ciberseguridad
+### Estudiante de Ingeniería en Sistemas | Python · PowerShell · Ciberseguridad
 
 🌍 Santo Domingo, República Dominicana &nbsp;•&nbsp; 🎓 Estudiante activo &nbsp;•&nbsp; 🔐 Apasionado por la ciberseguridad
 
@@ -40,10 +40,6 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dariel-Espinal&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dariel-Espinal&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dariel-Espinal&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
