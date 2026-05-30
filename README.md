@@ -32,8 +32,8 @@
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🔐 [USB Security Scanner](https://github.com/Dariel-Espinal-Garcia/usb-security-scanner) | Toolkit portátil de análisis de seguridad: procesos, red con Nmap y verificación de vulnerabilidades | `PowerShell` `Nmap` |
-| 🏋️ [Calculadora IMC](https://github.com/Dariel-Espinal-Garcia/calculadora-imc) | Calculadora de Índice de Masa Corporal con interfaz de usuario | `Python` |
+| 🔐 [USB Security Scanner](https://github.com/Dariel-Espinal/usb-security-scanner) | Toolkit portátil de análisis de seguridad: procesos, red con Nmap y verificación de vulnerabilidades | `PowerShell` `Nmap` |
+| 🏋️ [Calculadora IMC](https://github.com/Dariel-Espinal/calculadora-imc) | Calculadora de Índice de Masa Corporal con interfaz de usuario | `Python` |
 
 ---
 
@@ -41,11 +41,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dariel-Espinal-Garcia&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dariel-Espinal&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dariel-Espinal-Garcia&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dariel-Espinal&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dariel-Espinal-Garcia&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dariel-Espinal&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
 
@@ -55,11 +55,10 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO_AQUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darielespinalgarcia)
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Dariel-Espinal-Garcia&color=0e75b6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Dariel-Espinal&color=0e75b6&style=flat-square)
 
 </div>
