@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Dariel Espinal García
 
-### Estudiante de Ingeniería en Sistemas | Python · PowerShell · Ciberseguridad
+### Estudiante de Ingeniería en Ciberseguridad | Python · PowerShell · Ciberseguridad
 
 🌍 Santo Domingo, República Dominicana &nbsp;•&nbsp; 🎓 Estudiante activo &nbsp;•&nbsp; 🔐 Apasionado por la ciberseguridad
 
